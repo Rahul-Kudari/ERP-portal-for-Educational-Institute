@@ -1,4 +1,5 @@
-# 🎓 College ERP System
+# 🎓 ERP-portal-for-Educational-Institute
+
 
 ![College ERP Banner](images/banner.png)
 
